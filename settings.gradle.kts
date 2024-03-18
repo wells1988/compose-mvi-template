@@ -21,4 +21,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "compose-mvi-template"
 include(":app")
- 
+include(":data")
+include(":domain")
